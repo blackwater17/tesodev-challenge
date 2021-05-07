@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+
+body {
+    background: #fff;
+}
+
+
+.tesodev-logo {
+
+    height: 115px;
+    width: 278px;
+    margin: 228px auto 12px;    
+
+    background-image: url("/img/tesodev-logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    background-position: center;
+}
+
+
+.search-web {
+    display: inline-block;
+    margin-left: 55%;
+    margin-bottom: 14px;
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+
+
+}
+
+.form {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+
+.text-form {
+
+    display: inline-block;
+    height: 46px;
+    width: 709px;
+    margin: 0 auto;
+    color: grey;
+    font-weight: bold;
+
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 0 6px;
+
+}
+
+
+  
+::placeholder {
+    text-align: center;
+}
+  
+.text-form:placeholder-shown {
+    text-align: left;
+}
+
+
+.search-button {
+    height: 46px;
+    width: 138px;
+    border-radius: 8px;
+    background: #204080;
+    display: inline-block;
+    position: absolute;
+
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 4px;
+    margin-left:15px;
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+
+
+
+
+
+
+
